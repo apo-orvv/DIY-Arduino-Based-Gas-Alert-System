@@ -1,6 +1,3 @@
-// scientist BENIEL'S LAB
-// GAS DETECTOR
-
 int Input = A0;
 int R_LED = 2;
 int G_LED = 3;
