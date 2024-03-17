@@ -2,7 +2,7 @@ int Input = A0;
 int R_LED = 2;
 int G_LED = 3;
 int Buzzer = 4;
-// VAL INTEGER
+
 int val;
 int MAX = 400;
 
